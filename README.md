@@ -46,6 +46,7 @@ _NOTE: These instructions require more testing with out-of-the-box PG+._
       char ret[2048];
       int (*report)(struct thread_task*);
     };
+    #endif /* THREADS */
     ```
 
 1. Update `src/version.c` by inserting the following code at ~[line 161](https://github.com/talkers/pgplus/blob/master/src/version.c#L161):
