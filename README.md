@@ -38,7 +38,8 @@ _NOTE: These instructions require more testing with out-of-the-box PG+._
 
     ```
     #ifdef THREADS
-    struct thread_task {
+    struct thread_task 
+    {
       int status;
       player *p;
       char cmd[512];
