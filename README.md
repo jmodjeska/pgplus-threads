@@ -72,6 +72,7 @@ During `make config`, set the `MAX_THREADS` option as you see fit. You shouldn't
 1. Recompile using the standard PG+ compilation process.
 
 ## You might also like
+* [PG+ ChatGPT Bot](https://github.com/jmodjeska/pgplus-aiyu)
 * [PG+ Short Link Generator](https://github.com/jmodjeska/pgplus-shortlink)
 * [PG+ Cocktail Recipe](https://github.com/jmodjeska/pgplus-cocktail)
 * [PG+ Test Harness](https://github.com/jmodjeska/pgplus-test)
